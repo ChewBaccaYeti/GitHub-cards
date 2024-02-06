@@ -1,0 +1,11 @@
+This is repository for fetching users through GitHub API.
+How to launch:
+
+1) Clone repository on your local machine
+2) run command: "npm install"
+3) After, when you successfully installed node packages run command: "npm run start"
+4) open index.html file and run there Live Server
+5) You will see page with user's cards
+
+Note: API has limit for requests, so you may see zero numbers in user's stats
+Number of repos and Languages I took from different source such as original github URL address
